@@ -9495,7 +9495,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 17 "+3")
 			(pintype "passive")
-			(uuid "83a57e54-22fe-4ffe-8c46-78c9d3ba9b28")
+			(uuid "3e8320dc-830b-43fe-92cc-ff7f285fed05")
 		)
 		(pad "2" smd circle
 			(at 0 0)
