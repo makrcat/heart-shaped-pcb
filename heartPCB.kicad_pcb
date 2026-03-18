@@ -205,7 +205,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/216fc888-87a6-48fe-b80c-9ce892e090f1")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 -1.37)
@@ -423,7 +423,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2138dd1f-173e-40a7-bf2b-525e8f6d3f89")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.545)
@@ -626,7 +626,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9724c7c8-afe1-43d2-808c-faf1b84bf20c")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.290001 -1.545)
@@ -770,7 +770,7 @@
 		(property "Reference" "RC2"
 			(at 10.668 -0.127 90)
 			(layer "F.SilkS")
-			(uuid "6429d32e-d654-4ad1-9e97-bb188ccb2a8f")
+			(uuid "c6a0f50b-df65-478e-8c9f-c56bc228d93a")
 			(effects
 				(font
 					(size 1 1)
@@ -778,10 +778,10 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "2K"
 			(at -2.39 0.8 90)
 			(layer "F.Fab")
-			(uuid "fd2049da-ce2e-462d-9a04-ff1de6d7b179")
+			(uuid "fe68a2ec-7c86-4bf0-a2d6-a34be1706653")
 			(effects
 				(font
 					(size 1 1)
@@ -793,7 +793,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1300a67f-fe6e-4acf-b863-7791bdc9b382")
+			(uuid "f622143e-eca0-4b19-ae0e-d4a54b48b30b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -805,7 +805,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e8e4331-7e1c-45b2-9032-d13fde914331")
+			(uuid "7ff7ff3f-1ac2-45c4-b9b5-eece878d5227")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -816,7 +816,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2ebf2087-7b51-4ca8-a542-b311c8a4a507")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 1.37)
@@ -1032,7 +1032,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/51bda80f-9a69-4857-b44b-77c401fbeeac")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.289999 -1.545001)
@@ -1235,7 +1235,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/5be7cb2d-b3e7-4559-9208-a75044c0afbc")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.289999 -1.545)
@@ -1425,7 +1425,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/04bbc414-7aa0-410a-be9d-97b721b56612")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 1.37)
@@ -1588,7 +1588,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2c4a9b8b-bd0c-4dad-85a4-f87b91fefb7c")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.370001)
@@ -1793,7 +1793,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a8a7b99a-c765-4046-8153-acf92cf02432")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 1.37)
@@ -2885,7 +2885,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/05887d5c-2fe9-4a28-85d3-a91da19661ff")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.544999)
@@ -3075,7 +3075,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4a1df93f-cd68-44b7-8017-91c69a5bd64f")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.080001 -1.37)
@@ -3293,7 +3293,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c928b15d-f6e2-44be-a945-1a0829532c43")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.545)
@@ -3483,7 +3483,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f0fb427a-c8c6-4970-b55d-cdaf1dff8cdb")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.370001)
@@ -3740,7 +3740,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/bde99469-ff43-48ed-aaaa-b8dee945f97a")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -3977,12 +3977,12 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
+	(footprint "Package_DIP:DIP-16_W7.62mm_LongPads"
 		(layer "F.Cu")
 		(uuid "58e19403-81b5-4e5d-97cf-37875efbc274")
 		(at 150.241 52.832)
-		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
+		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), LongPads")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads")
 		(property "Reference" "U2"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
@@ -4034,7 +4034,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fa409eaf-fe73-4a68-9cb2-ebd779df1bef")
+			(uuid "77e34d5d-4736-40da-8fb5-dfd7020684c8")
 			(effects
 				(font
 					(size 1 1)
@@ -4047,7 +4047,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2a0a766b-af0e-4be1-a2a3-ac10b81c9db3")
+			(uuid "a08f5c52-491e-4d5f-84b0-d6fc1db67ae3")
 			(effects
 				(font
 					(size 1 1)
@@ -4060,7 +4060,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0a15effe-f9d0-46af-bfed-f5b021702432")
+			(uuid "fac34ea5-74a8-4171-a0c9-38a4b2cfd84e")
 			(effects
 				(font
 					(size 1 1)
@@ -4073,7 +4073,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6c6181f1-cc87-46f1-9e64-bce0e00e5422")
+			(uuid "2ec96de2-6e84-48b7-b381-d5033d4a9810")
 			(effects
 				(font
 					(size 1 1)
@@ -4084,7 +4084,7 @@
 		(property ki_fp_filters "DIP?16*")
 		(path "/d5c59bce-c686-4da7-af3a-e973be6619bb")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -4094,7 +4094,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3746c9ed-5a3b-48f1-b44c-0dca05c3cc46")
+			(uuid "9d9036e2-5587-4c05-9319-f125d0fe64e3")
 		)
 		(fp_line
 			(start 1.56 19.11)
@@ -4104,7 +4104,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e134dfb8-56b4-4494-828f-ad79d7cd4fe4")
+			(uuid "0b95573d-bcb1-49e7-b2e3-e96674f49889")
 		)
 		(fp_line
 			(start 2.81 -1.33)
@@ -4114,7 +4114,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8c57c720-d839-4cff-8809-d550a5d1491c")
+			(uuid "3c59eb03-7af2-4b7f-b469-bf48d25cd2ad")
 		)
 		(fp_line
 			(start 6.06 -1.33)
@@ -4124,7 +4124,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "14752333-5c27-4cb1-9dc7-0d435d2f6460")
+			(uuid "2019dd03-6f04-479e-b10c-ad322a203b41")
 		)
 		(fp_line
 			(start 6.06 19.11)
@@ -4134,18 +4134,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c8409bff-a736-489d-81a5-c3f0e6ce768d")
-		)
-		(fp_rect
-			(start -1.44 -1.39)
-			(end 9.06 19.17)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.SilkS")
-			(uuid "3bff2f89-539b-49cd-a331-a3f091049be9")
+			(uuid "0018542a-bb35-468c-8cd0-8379042e1480")
 		)
 		(fp_arc
 			(start 4.81 -1.33)
@@ -4156,18 +4145,18 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1d1a5250-0333-443b-b3ff-b2f123599077")
+			(uuid "6e7744a3-53b6-4bf7-9489-5549e5f97cf0")
 		)
 		(fp_rect
-			(start -1.52 -1.58)
-			(end 9.14 19.36)
+			(start -1.45 -1.52)
+			(end 9.07 19.3)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "96b90ec4-89af-45ec-a679-75abade69a04")
+			(uuid "f20ccb1d-b810-43ca-a72d-78d2e812f4b7")
 		)
 		(fp_line
 			(start 0.635 -0.27)
@@ -4177,7 +4166,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5f518027-134b-4ef9-80c6-54c24dce15ff")
+			(uuid "5c791ba6-d2f8-4568-9d83-9981b2d32137")
 		)
 		(fp_line
 			(start 0.635 19.05)
@@ -4187,7 +4176,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3a7907d7-aae5-4ca0-862b-53c30ef0ffca")
+			(uuid "b50c76da-c0b3-498f-b89c-b69973029393")
 		)
 		(fp_line
 			(start 1.635 -1.27)
@@ -4197,7 +4186,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b40ee66e-542e-447f-afec-36c761af7c77")
+			(uuid "67a1c53b-891d-4597-99c2-e1d40c115062")
 		)
 		(fp_line
 			(start 6.985 -1.27)
@@ -4207,7 +4196,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b2170b6b-c4a4-4a94-96e7-44b5b4c892de")
+			(uuid "72ab12f6-5f56-48dc-bb2b-7783c3c77ad0")
 		)
 		(fp_line
 			(start 6.985 19.05)
@@ -4217,18 +4206,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "60af5ab8-44e1-4118-afe4-e49eea972f7e")
-		)
-		(fp_rect
-			(start -1.27 -1.33)
-			(end 8.89 19.11)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "8fdcadb9-fd1e-412d-90e6-d6cf983a48b4")
+			(uuid "f060a98a-c1b9-4e8c-9ae4-3151b3bfc9ec")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 8.89 90)
@@ -4419,7 +4397,7 @@
 			(uuid "a83ac220-fafa-4fb5-8f53-61e3f1ca3c4b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.step"
+		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4499,7 +4477,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/544c5acf-9d3b-4620-9366-b34317f086f9")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.545001)
@@ -4702,7 +4680,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d7444147-bb54-48e1-b055-1ffd7e671687")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.544999)
@@ -4892,7 +4870,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/240721e9-0b2b-46a9-a5e1-ae58440dfdb2")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.539999 1.370001)
@@ -5097,7 +5075,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e43813a4-543e-48e7-8022-a32ec58e18b8")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -5300,7 +5278,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/72049893-3983-4acc-b94b-68baf5447064")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -5613,7 +5591,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c2a93029-1ecf-4fa0-b5d1-3fafcd90f429")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -5831,7 +5809,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b7a333ff-df45-411a-a8b6-4095d745d63c")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.289999 -1.545001)
@@ -5975,7 +5953,7 @@
 		(property "Reference" "C11"
 			(at -2.75 -0.1 0)
 			(layer "F.SilkS")
-			(uuid "6b0b9f27-7032-42d7-a261-627e73a5383e")
+			(uuid "43375510-0ccd-4b32-92c5-f6841680a9ae")
 			(effects
 				(font
 					(size 1 1)
@@ -5983,10 +5961,10 @@
 				)
 			)
 		)
-		(property "Value" "3.3uF"
+		(property "Value" "10uF"
 			(at 1.05 4.7 0)
 			(layer "F.Fab")
-			(uuid "487bb51d-7d24-4c0e-a7d4-33d82783a2be")
+			(uuid "7646bbdf-ed03-489e-9254-30ad635cfee7")
 			(effects
 				(font
 					(size 1 1)
@@ -5998,7 +5976,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "821f2c38-c45f-4e84-96c8-e45ca1036101")
+			(uuid "471e0f9f-5d1e-45d2-8a38-c8f7874c2634")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6010,7 +5988,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "298af69d-5005-47d8-ae49-24b277ff1ea4")
+			(uuid "3d430842-6f17-4071-81a9-120d92d349ff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6021,7 +5999,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/c5e6d317-a694-489b-897e-0b74ef6fba3f")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 -2.58)
@@ -7379,7 +7357,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c9734223-04d4-43be-af19-32984521d212")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.544999)
@@ -7609,7 +7587,7 @@
 		)
 		(path "/ec356cbc-c063-4b79-bc60-3a4be919514a")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -5.11 -1.36)
@@ -7756,7 +7734,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a2423103-d9d3-407a-9dac-98f5173e1821")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 -1.37)
@@ -7959,7 +7937,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3dc730b3-2fb1-4e53-bbf9-149cee48adfc")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 -1.370001)
@@ -8164,7 +8142,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/46ef911d-02a5-4cd3-895f-dbe3697f3b1e")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 -1.37)
@@ -8382,7 +8360,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6fcc5572-035b-4b2b-a80f-cd8209940754")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.545001)
@@ -8572,7 +8550,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ff2909ae-78bc-4561-b50a-5e8201a53b68")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.369999)
@@ -8790,7 +8768,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/fbee0dd8-6ef3-4996-b754-dc0be9a05566")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.545001)
@@ -9027,7 +9005,7 @@
 		)
 		(path "/56dd94cd-fb71-4fac-b40d-14950a878f88")
 		(sheetname "/")
-		(sheetfile "pcb2.kicad_sch")
+		(sheetfile "heartPCB.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -10.78 -3.63)

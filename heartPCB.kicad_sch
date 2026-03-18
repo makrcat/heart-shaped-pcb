@@ -3097,7 +3097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 138.1252 80.01 0)
 			(effects
 				(font
@@ -3712,7 +3712,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22K"
+		(property "Value" "2K"
 			(at 96.52 60.9599 0)
 			(effects
 				(font
@@ -5069,7 +5069,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "10uF"
 			(at 110.49 71.5009 0)
 			(effects
 				(font
@@ -5302,7 +5302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
 			(at 161.29 63.5 0)
 			(effects
 				(font
